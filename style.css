@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Josefin+Sans:600');
+
 body {
   font-size: 16px;
   font-family: 'Helvetica', 'Arial', sans-serif;
@@ -5,6 +7,9 @@ body {
 	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
 	background-size: 200% 200%;
 	animation: gradient 15s ease infinite;
+}
+.xyz{
+  font-family: "josefin sans", sans serif;
 }
 .bubbly-button {
   font-family: 'Helvetica', 'Arial', sans-serif;
