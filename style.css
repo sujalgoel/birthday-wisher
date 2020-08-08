@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Dancing+Script|Josefin+Sans:600');
+@import url(https://fonts.googleapis.com/css?family=Lobster);
 
 body {
   font-size: 16px;
@@ -10,6 +11,9 @@ body {
 }
 .xyz{
   font-family: "josefin sans", sans serif;
+}
+.xy{
+  font-family: 'Lobster';
 }
 .bubbly-button {
   font-family: 'Helvetica', 'Arial', sans-serif;
