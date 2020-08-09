@@ -20,7 +20,6 @@ body {
   margin-bottom: 60px;
   -webkit-appearance: none;
   appearance: none;
-  background-color: #ff0081;
   color: #fff;
   border-radius: 4px;
   border: none;
@@ -28,6 +27,9 @@ body {
   position: relative;
   transition: transform ease-in 0.1s, box-shadow ease-in 0.25s;
   box-shadow: 0 2px 25px rgba(255, 0, 130, 0.5);
+	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 200% 200%;
+	animation: gradient 15s ease infinite;
 }
 .bubbly-button:focus {
   outline: 0;
